@@ -1,4 +1,6 @@
-<h1 align="center">Hey there 😁, I'm Faiaz Bin Hossain</h1>
+<!--<h3 align="center">
+![image](https://media.licdn.com/dms/image/D5616AQGhD4y48CiApA/profile-displaybackgroundimage-shrink_350_1400/0/1665895717890?e=1680739200&v=beta&t=lzGU1mo1KAolu6pSD2PDeCFaR2PbZTCFrvrbLqH0Mrc)
+</h3> -->
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <h3 align="left">Connect with me:</h3>
