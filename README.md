@@ -18,3 +18,6 @@
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg" alt="react" style="vertical-align:top; margin:4px">
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faiazhossain&theme=radical&layout=compact)](https://github.com/faiazhossain?tab=repositories)
+
+![Faiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=faiazhossain&show_icons=true&theme=radical)
